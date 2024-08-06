@@ -1,0 +1,9 @@
+###############################################################################
+#                          Generated on phpdocker.io                          #
+###############################################################################
+version: "3.4"
+services:
+    phpcomposer:
+        image: harbor.service.tiks.com.au/library/php-webserver:8.1.0-dev
+        volumes:
+          - ./:/application

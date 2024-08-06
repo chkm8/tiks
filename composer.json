@@ -1,9 +1,9 @@
 {
-  "name": "tnchalise/tiks",
+  "name": "ideagen-damstra/tiks",
   "description": "Tiks Assure audit logs",
   "require": {
-    "altek/eventually": "1.*",
-    "altek/accountant": "1.*"
+    "altek/eventually": "^3.0.0",
+    "altek/accountant": "^4.0.0"
   },
   "license": "MIT",
   "autoload": {
@@ -15,11 +15,5 @@
     "psr-4": {
       "Tnchalise\\Tiks\\Tests\\": "tests/"
     }
-  },
-  "authors": [
-    {
-      "name": "tnchalise",
-      "email": "tek@tiks.com.au"
-    }
-  ]
+  }
 }
