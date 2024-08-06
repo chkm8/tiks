@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9ca14401e5f1aae64cd357cfb7617171",
+    "content-hash": "e90a85da855e7bc1a84140a0b78e0471",
     "packages": [
         {
             "name": "altek/accountant",

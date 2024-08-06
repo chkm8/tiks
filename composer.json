@@ -1,5 +1,5 @@
 {
-  "name": "ideagen-damstra/tiks",
+  "name": "ideagen-damstra/tiks-audit-logs",
   "description": "Tiks Assure audit logs",
   "require": {
     "altek/eventually": "^3.0.0",
